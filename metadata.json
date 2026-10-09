@@ -1,0 +1,6 @@
+{
+  "name": "ShadowGuard - AI Model Deployment & Regression Gate",
+  "description": "AI model deployment evaluation and regression gate. Compares baseline and candidate models before production release to detect quality regressions and enforce PROMOTE or BLOCK criteria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
